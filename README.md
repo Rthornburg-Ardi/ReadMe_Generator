@@ -60,11 +60,11 @@ Many READMEs do not contain all of these sections. Ensuring that each section is
 
 After following the installation instructions, type node index.js in your terminal, as in the screenshot below, and hit enter to run the application.
 
-![screenshot1](Assets/Screenshot 2024-04-30 at 8.25.02 PM.png)
+![screenshot1](Assets/Screenshot%202024-04-30%20at%208.25.02 PM.png)
 
 Wait for the first prompt, "1. What will the title for your README be?" to appear, and type and enter the title you would like for your README. The below screenshot is an example of a title typed in response to the prompt.
 
-![screenshot2](Assets/Screenshot 2024-04-30 at 8.29.55 PM.png)
+![screenshot2](Assets/Screenshot%202024-04-30%20at%208.29.55 PM.png)
 
 After pressing enter, the next prompt will appear, prompting the user to "2. Please choose a license from the following list of options." Navigate through the list of licenses using the arrow keys, and press enter when you have navigated to your desired license. Feel free to hit enter without navigating through the options if you would like the first option, the MIT license, which is selected in the below screenshot.
 
