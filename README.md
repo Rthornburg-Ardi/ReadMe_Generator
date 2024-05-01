@@ -95,7 +95,7 @@ There have been no tests developed for this README generator yet. If you have an
 
 ## Contributing
 
-If you would like to contribute to this README generator application, reach out to me at sara.marie.hines1@gmail.com. Any ideas, feedback, and contributions to the codebase are welcome. If you create an issue, please @ me. If you would like to make a pull request, please request a pull request review from me so that I can review your proposed changes. Some features which would be beneficial to implement would be: the ability to accept or reject default content; the option to create additional badges with customized text; and the ability to choose one of 3 markdown templates with different formatting and visual appearance. 
+If you would like to contribute to this README generator application, reach out to me at thornburg.rebeca1@gmail.com. Any ideas, feedback, and contributions to the codebase are welcome. If you create an issue, please @ me. If you would like to make a pull request, please request a pull request review from me so that I can review your proposed changes. Some features which would be beneficial to implement would be: the ability to accept or reject default content; the option to create additional badges with customized text; and the ability to choose one of 3 markdown templates with different formatting and visual appearance. 
 
 ## Credits
 
